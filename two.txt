@@ -1,3 +1,2 @@
 two
-this is text file
-this is a new fielS
+t
